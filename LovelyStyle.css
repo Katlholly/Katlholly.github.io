@@ -136,7 +136,7 @@ table{
 .table2{
   color: #666;
   margin-right: 0px;
-  width: 100%;
+  width: auto;
   font-family: "Lucida Handwriting";
   font-size: 17px;
   background: rgb(255, 233, 233);
