@@ -17,7 +17,7 @@
     position: relative;
   }
   .img3{
-    width:250px;
+    width:100%;
   }
 
   
@@ -132,7 +132,7 @@ body {
   .table2{
     color: #666;
     margin-right: 0px;
-    width: auto;
+    width: 100%;
     font-family: "Lucida Handwriting";
     font-size: 17px;
     background: rgb(255, 233, 233);
