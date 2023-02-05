@@ -131,14 +131,14 @@ body {
   }
   .table2{
     color: #666;
-    margin-right: 0px;
+    
     width: 100%;
     font-family: "Lucida Handwriting";
     font-size: 17px;
     background: rgb(255, 233, 233);
     z-index: -1;
     top:250px;
-    left: 20px;
+    
   }
   .tb{
     height: 100%;
