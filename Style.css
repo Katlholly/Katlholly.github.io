@@ -71,7 +71,6 @@ body {
     }
   a{
       resize: none;
-      white-space: nowrap;
       margin-left:25px;
       display:inline-block;
       margin-top: 1vb;
