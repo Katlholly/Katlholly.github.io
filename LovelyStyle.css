@@ -6,12 +6,12 @@
 img{
   display: block;
   margin-top:10%;
-  margin-left: 30%;
+  margin-left: 32%;
   margin-right: 30%;
-  width: 40%;
+  width: 900px;
   position: relative;
   z-index: -2;
-  white-space: nowrap;
+  resize: none;
 }
 .img2{
 
@@ -36,7 +36,7 @@ h1 {
     white-space:nowrap;
     font-size: 500%;
     color: white;
-    margin-left: 25%;
+    margin-left: 28%;
     margin-right: 30%;
     font-family: "Lucida Handwriting";
     text-shadow:
@@ -51,7 +51,7 @@ h1 {
   h2{
     font-size: 200%;
     color: white;
-    margin-left: 35%;
+    margin-left: 32%;
     margin-right: 30%;
     font-family: "Garamond";
     
