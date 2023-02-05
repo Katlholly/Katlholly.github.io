@@ -5,10 +5,10 @@
 }
 img{
   display: block;
-  margin-top:20%;
+  top: 30%;
   margin-left: 32%;
   margin-right: 30%;
-  width: 40%;
+  width: 80%;
   position: relative;
   z-index: -2;
 }
