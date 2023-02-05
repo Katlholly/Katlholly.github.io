@@ -4,12 +4,14 @@
 
 }
 img{
-  display: in-block;
-  margin-top:5%;
-  margin-right: 10%;
+  display: block;
+  margin-top:10%;
+  margin-left: 30%;
+  margin-right: 30%;
   width: 40%;
   position: relative;
-
+  z-index: -2;
+  white-space: nowrap;
 }
 .img2{
 
@@ -18,16 +20,20 @@ img{
 }
 .img3{
   width:100%;
+
 }
 body {
-  
+    overflow: hidden;
     background-color: #686666;
     background-position: center;
     background-size: 50%;
     background-repeat: no-repeat ;
     position:relative;
    }
+
+  
 h1 {
+    white-space:nowrap;
     font-size: 300%;
     color: white;
     margin-left: 38%;
@@ -53,10 +59,11 @@ h1 {
   .h{
     font-size: 300%;
     color: white;
-    margin-left: 38%;
-    margin-right: 30%;
-    font-family: "Lucida Handwriting";
+    margin-left: 30%;
     position: fixed;
+    font-family: "Lucida Handwriting";
+    resize: none;
+    white-space:nowrap;
   }
   .desc{
     font-size: 16px;
@@ -65,6 +72,7 @@ h1 {
     text-align:start;
   }
 a{
+    
     resize: none;
     margin-left:1vb;
     display:inline-block;
@@ -127,13 +135,13 @@ table{
 }
 .table2{
   color: #666;
-  height:30%;
-  width: 80%;
+  margin-right: 0px;
+  width: 100%;
   font-family: "Lucida Handwriting";
   font-size: 17px;
   background: rgb(255, 233, 233);
   z-index: -1;
-  left:300px;
+ 
   top:250px;
 }
 .tb{
@@ -165,6 +173,7 @@ table{
   transform: translateY(4px);
 }
 .backButton{
+  z-index: -1;
   top:0px;
   right:0px;
   color: white;
@@ -237,6 +246,7 @@ label {
   font-family:"Copperplate";
   font-size: 26px;
   background-size:2px;
+
 }
 #sideMenu-active:checked + .sideMenu {
    transform: translateX(0);
