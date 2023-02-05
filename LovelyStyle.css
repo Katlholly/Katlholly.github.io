@@ -23,7 +23,7 @@ img{
 
 }
 body {
-    overflow-y: hidden;
+    overflow: hidden;
     background-color: #686666;
     background-position: center;
     background-size: 50%;
