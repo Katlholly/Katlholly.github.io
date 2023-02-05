@@ -5,13 +5,12 @@
 }
 img{
   display: block;
-  
+  top:10%;
   margin-left: 32%;
   margin-right: 30%;
   width: 40%;
   position: relative;
   z-index: -2;
-  resize: none;
 }
 .img2{
 
