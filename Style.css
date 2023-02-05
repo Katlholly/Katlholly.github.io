@@ -70,7 +70,7 @@ body {
       margin-left: 50px;
     }
   a{
-      resize=none;
+      resize: none;
       white-space: nowrap;
       margin-left:25px;
       display:inline-block;
