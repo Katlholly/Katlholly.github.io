@@ -32,10 +32,10 @@ body {
   
 h1 {
     left:0;
-    font-size: 100%;
+    font-size: 500%;
     color: white;
-    
-  
+    float: left;
+    z-index: -1;
     font-family: "Lucida Handwriting";
     text-shadow:
     0  7px rgb(243, 18, 176),
