@@ -20,7 +20,9 @@
     width:250px;
   }
 
-  
+  video{
+    margin-right: 120px;
+}
 body {
         overflow-x: hidden;
         background-color: #686666;
