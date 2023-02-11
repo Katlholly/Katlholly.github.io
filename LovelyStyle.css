@@ -31,10 +31,11 @@ body {
 
   
 h1 {
-  white-space:nowrap;
+    white-space:nowrap;
     font-size: 400%;
     color: white;
     z-index: -1;
+    text-align: left;
     font-family: "Lucida Handwriting";
     text-shadow:
     0  7px rgb(243, 18, 176),
